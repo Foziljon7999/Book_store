@@ -1,0 +1,12 @@
+ul {
+    list-style: none;
+    li {
+        font-size: 20px;
+        margin-bottom: 10px;
+        img {
+            width: 300px;
+            height: 300px;
+        border-radius: 10px 
+        }
+    }
+}

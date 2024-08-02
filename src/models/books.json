@@ -1,0 +1,76 @@
+[
+  {
+    "id": 1,
+    "name": "Boy ota va Kambag'al ota",
+    "count": 35,
+    "price": 50000,
+    "authId": 1,
+    "categoryId": 1,
+    "desc": "Bizness haqidagi kitob",
+    "img": "https://frankfurt.apollo.olxcdn.com/v1/files/v2daevdugt632-UZ/image;s=726x1000"
+  },
+  {
+    "id": 2,
+    "name": "O'tkan kunlar",
+    "count": 35,
+    "price": 50000,
+    "authId": 2,
+    "categoryId": 2,
+    "desc": "Judayam ajoyib xususiyatga ega o'zbek asari",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdQwj59FJhwR3JWHlM7AFfTyM3IzQ6aWzIhA&s"
+  },
+  {
+    "id": 3,
+    "name": "Sarmoya tikish san'ati",
+    "desc": "Biznessga qiziqadiganlar uchun",
+    "count": "1",
+    "price": "60000",
+    "categoryId": "1",
+    "img": "https://assets.asaxiy.uz/product/items/desktop/5e15bf595694a.jpg.webp"
+  },
+  {
+    "id": 4,
+    "name": "Atom odatlari",
+    "desc": " Ushbu kitob orqali Shaxsiy odatlarni shakillantiring",
+    "count": "28",
+    "price": "60000",
+    "categoryId": "4",
+    "img": "https://assets.asaxiy.uz/product/main_image/desktop//626972ef8754f.jpg.webp"
+  },
+  {
+    "id": 5,
+    "name": "1984",
+    "desc": "Judayam ajoyib kitob\r\n",
+    "count": "20",
+    "price": "55000",
+    "categoryId": "1",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQazEQmQyhq4ia4VV7Rg7bCK0RQjlN-Zf3K3A&s"
+  },
+  {
+    "id": 6,
+    "name": "Xalq bo'l elim",
+    "desc": "Sheriy to'plamlar",
+    "count": "21",
+    "price": "25000",
+    "categoryId": "4",
+    "img": "https://kitobxon.com/img_knigi/s3000.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Harry Poter ",
+    "desc": "Fantastik olam",
+    "count": "15",
+    "price": "38000",
+    "categoryId": "5",
+    "img": "https://images.uzum.uz/clu4vg3pvnpo2vtqrvp0/original.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Jannat izlaganlar",
+    "desc": "Judayam kuchli dramatik asar",
+    "count": "28",
+    "price": "55000",
+    "categoryId": "5",
+    "img": "https://kitobxon.com/img_knigi/6985.jpg"
+  }
+]

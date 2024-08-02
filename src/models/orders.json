@@ -1,0 +1,89 @@
+[
+  {
+    "id": 1,
+    "book": {
+      "id": 2,
+      "name": "O'tkan kunlar",
+      "count": 35,
+      "price": 50000,
+      "authId": 2,
+      "categoryId": 2,
+      "desc": "Judayam ajoyib kitob",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdQwj59FJhwR3JWHlM7AFfTyM3IzQ6aWzIhA&s"
+    },
+    "clientName": "Fayzulla",
+    "totalPrice": 330000,
+    "phone": "+998 97 251 79 99",
+    "count": "6",
+    "address": "Namangan shaxar"
+  },
+  {
+    "id": 2,
+    "book": {
+      "id": 3,
+      "name": "Sarmoya tikish san'ati",
+      "desc": "Biznessga qiziqadiganlar uchun",
+      "count": "1",
+      "price": "60000",
+      "categoryId": "1",
+      "img": "https://assets.asaxiy.uz/product/items/desktop/5e15bf595694a.jpg.webp"
+    },
+    "clientName": "Suxrob",
+    "totalPrice": 90000,
+    "phone": "972517999",
+    "count": "1",
+    "address": "Toshkent Xadra"
+  },
+  {
+    "id": 3,
+    "book": {
+      "id": 5,
+      "name": "1984",
+      "desc": "Judayam ajoyib kitob\r\n",
+      "count": "20",
+      "price": "55000",
+      "categoryId": "1",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQazEQmQyhq4ia4VV7Rg7bCK0RQjlN-Zf3K3A&s"
+    },
+    "clientName": "Sherzod",
+    "totalPrice": 305000,
+    "phone": "+998 91 340 22 68",
+    "count": "5",
+    "address": "Surxandaryo vil Saraosiyo tum"
+  },
+  {
+    "id": 4,
+    "book": {
+      "id": 6,
+      "name": "Xalq bo'l elim",
+      "desc": "Sheriy to'plamlar",
+      "count": "21",
+      "price": "25000",
+      "categoryId": "4",
+      "img": "https://kitobxon.com/img_knigi/s3000.jpg"
+    },
+    "clientName": "Soliha",
+    "totalPrice": 80000,
+    "phone": "+99891 258 10 25",
+    "count": "2",
+    "address": "Qoraqalpog'iston Respublikasi"
+  },
+  {
+    "id": 5,
+    "book": {
+      "id": 2,
+      "name": "O'tkan kunlar",
+      "count": 35,
+      "price": 50000,
+      "authId": 2,
+      "categoryId": 2,
+      "desc": "Judayam ajoyib xususiyatga ega o'zbek asari",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdQwj59FJhwR3JWHlM7AFfTyM3IzQ6aWzIhA&s"
+    },
+    "clientName": "Sardor",
+    "totalPrice": 530000,
+    "phone": "972517999",
+    "count": "10",
+    "address": "Samarqand viloyati Pastdarg'om tumani"
+  }
+]

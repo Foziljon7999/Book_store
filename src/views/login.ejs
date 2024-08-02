@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- For google icons  -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet">
+  <link rel="stylesheet" href="/style/login.css">
+
+  <title>Login form</title>
+
+</head>
+
+<body>
+
+  <!-- for background -->
+  <div class="background"></div>
+
+  <!-- for form container -->
+  <div class="container">
+    <h2>Login</h2>
+    <form action="/login" method="post">
+
+      <div class="form-item">
+        <span class="material-icons-outlined">
+          account_circle
+          
+        </span>
+        <input name="username"  type="text" name="user" id="user" placeholder="Username">
+        
+      </div>
+
+      <div class="form-item">
+        <span class="material-icons-outlined">
+          lock
+        </span>
+        <input name="password" type="password" name="pass" id="pass" placeholder="password">
+      </div>
+
+      <button type="submit">LOGIN</button>
+
+      <p>Or Login Using</p>
+
+      <div class="options">
+        <button class="fb">Facebook</button>
+        <button class="gl">Google</button>
+      </div>
+
+      <p>New User ? <a href="#"> Create an Account</a></p>
+
+    </form>
+  </div>
+</body>
+
+</html>
